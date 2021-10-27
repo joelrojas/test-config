@@ -8,6 +8,6 @@ eureka:
 #    leaseExpirationDurationInSeconds: 2
 sample:
  string:
-   property: Customer App - SERVER
+   property: Change to config SERVER 
  int:
-   property: 2
+   property: 212
